@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V2_0__createTableUser.sql
+  checksum: 5ce2a06cd879b94dcacf395f81eb92a23e1cc8ac606529c4942c1f5b021b6f02
+- filename: src/main/resources/db/migration/V3_0__createTableProducts.sql
+  checksum: 75fa53a33443e7f73de2c64fec8fc282d836726db13652fa62e58f9939579ee7
+- filename: src/main/resources/db/migration/V4_0__addPnumberToUsers.sql
+  checksum: 8ed74a40c8cf5b9632fe9b86bc6a88417af170fe62f27db419a8eccbabaa7184
+- filename: src/main/resources/db/migration/V5_0__createtableCarts.sql
+  checksum: fce655bea22e97be7f6a003e8cfa149da07d869d17b57c7cef1489f86b3593ea
+- filename: src/main/resources/db/migration/V6_0__createTableCartItems.sql
+  checksum: e447259e7b0e4fcee7408d910b5925ab709257ab5efa47683ab32725732dc6b1
+- filename: src/main/resources/application.properties
+  checksum: 9dad6c56b38ecbdb1782fef621c130754b2fc71528456728e95ddb419d4ce8a6
+- filename: build.gradle
+  checksum: 495be8c5f63129b5fe2d7c09cdd64c760845c49ab40f4b06a3e6198d2c3d7c89
+version: ""
